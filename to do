@@ -1,0 +1,5 @@
+for churn rate as function of selected indicator
+1. get median (feature_i) where "will_churn" = 1)
+2. plot churn rate % vs 1.
+
+churn rate = (sum of will churn) / disttinct count user id
