@@ -1,0 +1,17 @@
+A description for the dataset:
+
+The dataset has been collected on 12 reference dates. On each reference date, the dataset describes a user‘s behavior in the game during the 7 days before the reference date. The dataset also includes a column indicating whether a user will not play at all during 28 days after the reference days, in other words whether a user will churn. The dataset also contains the tenure of a user, which is the time elapsed since the user was created till the reference date.
+
+ 
+
+Assessment questions
+
+What is the average churn rate in the dataset?
+What is the average of the other features in the dataset?
+Plot the number of distinct users as a function of reference date.
+Plot the churn rate as a function of reference date.
+What are the biggest indicators of player churn. Name at least one.
+Plot the churn rate as a function of the indicators named on the question above.
+Are there any users which appear on more than one reference date?
+Provide any insight into the dataset you find important or interesting. Descriptive, visual, statistical, or otherwise (Optional).
+ 
